@@ -1,6 +1,6 @@
 ## <h1>  Primer Desafío 👩‍💻  - "Amigo Secreto" 🧑‍🤝‍🧑 </h1> 
 
-![Amigo Secreto](./assets/ss1.png);
+![Amigo Secreto](./assets/ss1.png)
 
 ## <h1> Acerca del proyecto 💻 </h1> 
 
@@ -17,11 +17,17 @@ Desarrollar una aplicación donde el usuario interactue:
 - Se reinicie la lista al final.
 
 ## <h1> Funcionalidades Implementadas ✅ </h1> 
-- Agregar nombres y validarlos.
-- Evitar entradas vacías o repetidas.
-- Visualizar cada nombre agregado en una lista.
-- Sortear aleatoriamente un nombre.
-- Mostrar el nombre sorteado.
-- Limpiar el campo de entrada.
-- Reiniciar la lista al terminar el sorteo.
+- Agregar nombres a la lista
+- Validar entrada
+- Visualizar la lista
+- Sortear nombre aleatoriamente
+- Limpiar el campo de entrada
+
+<table>
+  <tr>
+    <td>Agregar nombres a la lista 📝 ➕ </td>
+    <td>Espacio para imagen</td>
+  </tr>
+</table>
+
 
