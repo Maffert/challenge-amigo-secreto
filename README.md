@@ -1,6 +1,5 @@
 ## <h1>  Primer Desafío 👩‍💻  - "Amigo Secreto" 🧑‍🤝‍🧑 </h1> 
-
-![Amigo Secreto](./assets/ss1.png)
+<img src="./assets/ss1.png">
 
 ## <h1> Acerca del proyecto 💻 </h1> 
 
@@ -16,18 +15,51 @@ Desarrollar una aplicación donde el usuario interactue:
 - Se muestre el resultado en pantalla.
 - Se reinicie la lista al final.
 
+## <h1> Tecnologías utilizadas 💻 </h1> 
+- 🟧 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
+
 ## <h1> Funcionalidades Implementadas ✅ </h1> 
-- Agregar nombres a la lista
-- Validar entrada
-- Visualizar la lista
-- Sortear nombre aleatoriamente
-- Limpiar el campo de entrada
 
 <table>
   <tr>
     <td>Agregar nombres a la lista 📝 ➕ </td>
-    <td>Espacio para imagen</td>
+    <td><img src="./assets/agregar-amigo.png"></td>
+  </tr>
+    <tr>
+    <td>Validar entrada ⚠️ </td>
+    <td><img src="./assets/validar-entrada.png"></td>
+  </tr>
+   <tr>
+    <td>Visualizar Lista 📄 </td>
+    <td><img src="./assets/visualizar-lista.png"></td>
+  </tr>
+   </tr>
+   <tr>
+    <td>Sortear Nombre Aleatorio 🎲 </td>
+    <td><img src="./assets/sorteo-aleatorio.png"></td>
+  </tr>
+  <tr>
+    <td>Limpiar Campo de entrada 🔄 </td>
+    <td><img src="./assets/limpiar-campo.png"></td>
   </tr>
 </table>
+
+<p>
+  👩‍💻 Autor : Fernanda Torres
+</p>
+<p>
+  📎 GitHub: https://github.com/Maffert
+</p>
+<p>
+  🔗 Descarga directa: 
+</p>
+
+
+
+
+
+
 
 
