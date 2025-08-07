@@ -46,6 +46,8 @@ Desarrollar una aplicación donde el usuario interactue:
   </tr>
 </table>
 
+## <h1> Muestra 🎥 </h1> 
+
 <p>
   👩‍💻 Autor : Fernanda Torres
 </p>
@@ -53,7 +55,7 @@ Desarrollar una aplicación donde el usuario interactue:
   📎 GitHub: https://github.com/Maffert
 </p>
 <p>
-  🔗 Descarga directa: 
+  🔗 Enlace: https://maffert.github.io/challenge-amigo-secreto/
 </p>
 
 
