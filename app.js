@@ -10,7 +10,7 @@ function agregarAmigo(){
     // Validar la entrada
 
     if (nombreAmigo === "") {
-        alert('Por favor, inserte un nombre');
+        alert('Por favor, inserte un nombre válido');
     return;
 
     } 
@@ -24,8 +24,9 @@ function agregarAmigo(){
         amigos.push(nombreAmigo);
         mostrarListaAmigos();
 
-        //Después de añadir el nombre, restablecer el campo de texto a una cadena vacía.
+        //Después de que añade el nombre, restablece el campo de texto a uno vacío.
         inputAmigo.value = '';
+        limpiarResultado();
         console.log(amigos);   
     }
 }
@@ -34,10 +35,10 @@ function mostrarListaAmigos() {
     //Obtener el elemento de la lista
     const lista = document.getElementById('listaAmigos');
 
-    //Limpiar el contenido previo para evitar duplicados
+    //Limpiar el contenido anterior para evitar nombres duplicados
     lista.innerHTML = "";
 
-    //Recorrer el array de amigos usando un bucle for
+    //Recorrer el array de amigos usando el bucle for
     for (let i = 0; i < amigos.length; i++) {
         //Crear un nuevo elemento <li> para cada amigo
         const item = document.createElement('li');
@@ -82,7 +83,7 @@ function reiniciarSorteo() {
     mostrarListaAmigos(); 
 }
 
-//Funcionalidades:   
+//Funcionalidades del proyecto:   
 //1.Agregar nombres
 //2.Validar entrada
 //3.Visualizar la lista
