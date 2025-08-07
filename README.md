@@ -5,8 +5,6 @@
 
 Es parte del curso "Lógica de programación" donde se pretende practicar y reforzar conceptos fundamentales como: funciones, bucles, condicionales, arrays, entre otras herramientas. Lo más importante desarrollar esa parte de lógica y resolución de problemas.
 
-- Estado del proyecto: En desarrollo.
-
 ## <h1> Objetivo del Challenge 🎯 </h1> 
 Desarrollar una aplicación donde el usuario interactue:
 - Agregando nombres a una lista que se pueda observar.
@@ -46,7 +44,8 @@ Desarrollar una aplicación donde el usuario interactue:
   </tr>
 </table>
 
-## <h1> Muestra 🎥 </h1> 
+## <h1> Muestra 🎥 </h1>
+![Demo del Proyecto](./assets/demo-amigo-secreto.gif)
 
 <p>
   👩‍💻 Autor : Fernanda Torres
